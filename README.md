@@ -50,8 +50,8 @@ Este projeto tem como objetivo automatizar testes de qualidade para a página de
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/AulusHZP/qa-login-test.git
-cd qa-login-test
+git clone https://github.com/AulusHZP/Login-Test.git
+cd Login-Test
 ```
 ### 2. Instalar as Dependências
 ```bash
@@ -69,7 +69,7 @@ npx playwright show-report
 ## ⚙️ Estrutura do Projeto
 
 ```bash
-qa-login-test/
+Login-Test/
 ├── tests/                             # Diretório dos testes
 │   ├── login_valid.test.js            # Teste de login com credenciais válidas
 │   ├── login_invalid_email.test.js    # Teste de login com email inválido
@@ -81,11 +81,11 @@ qa-login-test/
 
 ## 📬 Contato
 
-Para dúvidas ou sugestões, entre em contato com E-mail: [aulushzp@gmail.com](mailto:aulushzp@gmail.com) ou no LinkedIn: [linkedin.com/in/aulushzp](https://www.linkedin.com/in/aulushzp)
+Para dúvidas ou sugestões, entre em contato com E-mail: [aulushzp@gmail.com](mailto:aulushzp@gmail.com) ou no LinkedIn: [linkedin.com/in/aulus-batista](https://www.linkedin.com/in/aulus-batista/)
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+O `package.json` declara a licença MIT. O repositório não contém um arquivo de licença separado.
 
 ## 🔗 Referências
 
